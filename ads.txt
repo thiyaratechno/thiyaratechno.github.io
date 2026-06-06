@@ -1,5 +1,7 @@
 google.com, pub-5841711581261172, DIRECT, f08c47fec0942fa0
 
+facebook.com, 130259155815748, DIRECT, c3e20eee3f780d68
+
 OWNERDOMAIN= thiyaratechno.blogspot.com
 MANAGERDOMAIN= anymanager.io 
 anymanager.io, A7281, DIRECT
