@@ -170,8 +170,8 @@ contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
 
 
-thejungletechnology.com, 161026, DIRECT
-pixelverge.com, 161026, DIRECT
+thejungletechnology.com, 161153, DIRECT
+pixelverge.com, 161153, DIRECT
 google.com, pub-9911740406682987, RESELLER, f08c47fec0942fa0
 33across.com, 0015a00002oUk4aAAC, RESELLER, bbea06d9c4d2853c
 152media.info, 152M1195, RESELLER
@@ -227,6 +227,7 @@ improvedigital.com, 2480, RESELLER
 improvedigital.com, 2650, RESELLER
 improvedigital.com, 2722, RESELLER
 improvedigital.com, 2863, RESELLER
+improvedigital.com, 2893, RESELLER
 inmobi.com, 28713445510e4947ae0c2d3a9b3ac77c, RESELLER, 83e75a7ae333ca9d
 inmobi.com, df0f01fab6f64f09a6eff6779cfa8663, RESELLER, 83e75a7ae333ca9d
 joju.ai, 3463703094, RESELLER
